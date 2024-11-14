@@ -59,7 +59,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-3---SIMULATION-OF-CARTESIAN-3D-PRINTER-MACHINE/assets/113594316/e00b82b4-9aff-400f-9c57-288254dc3cd2)
 
 ## Output:
-![image](https://github.com/user-attachments/assets/621006a3-38ce-48f4-9491-87274c74fa50)
+![image](https://github.com/user-attachments/assets/181b6524-d03e-45a8-8a73-d07c91c85ace)
 
 ### Name: Joyce Beulah R
 ### Register Number:212222230058
